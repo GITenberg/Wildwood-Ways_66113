@@ -1,0 +1,28 @@
+_repo: Wildwood-Ways_66113
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Packard, Winthrop
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '35097'
+    url: http://www.gutenberg.org/2009/agents/35097
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66113'
+  lccn: 09029596
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+- GITenberg
+tableOfContents: Snugging-down days -- Certain white-faced hornets -- Thin ice --
+  Winter fern-hunting -- The bare hills in midwinter -- Some January birds -- When
+  the snow came -- The mink's hunting ground -- In the white woods -- The road to
+  Muddy Pond -- Among the muskrat lodges -- Thick ice.
+title: Wildwood Ways
+url: http://www.gutenberg.org/ebooks/66113
